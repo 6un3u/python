@@ -1,0 +1,2 @@
+def mul(x, xs):
+    return x ** xs
